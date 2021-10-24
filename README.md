@@ -5,3 +5,6 @@
 ## How is it working?
 
 First, it started with an initial value and put it in the function to check if it is equal to zero. Otherwise, it uses the tangent line of the point to obtain an x-intercept point that is closer to the true root value. And this process continues until it finds two successive points with desirable error differences.
+
+## Librarys
+ - sympy -> python library for symbolic mathematics. 
